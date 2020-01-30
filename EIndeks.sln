@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIndeks", "EIndeks\EIndeks.csproj", "{34835007-EA95-46B5-92B0-AE94F8AD0365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34835007-EA95-46B5-92B0-AE94F8AD0365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34835007-EA95-46B5-92B0-AE94F8AD0365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34835007-EA95-46B5-92B0-AE94F8AD0365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34835007-EA95-46B5-92B0-AE94F8AD0365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9E6808-B934-4DE8-820D-D583AF8B9CFC}
+	EndGlobalSection
+EndGlobal
